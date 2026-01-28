@@ -1,6 +1,6 @@
--- ============================================
+------------------------------
 -- POPULATE TABLES
--- ============================================
+------------------------------
 
 INSERT INTO Department VALUES (1, 'Human Resources', 500000);
 INSERT INTO Department VALUES (2, 'Finance', 750000);
