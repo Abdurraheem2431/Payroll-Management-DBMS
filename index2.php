@@ -1,5 +1,4 @@
 <?php
-// CPS510 – Assignment 9 (Improved UI)
 
 $conn = oci_connect(
     'xxxxxxxx',  // replace with your username for Oracle
