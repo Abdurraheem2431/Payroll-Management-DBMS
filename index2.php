@@ -1,5 +1,6 @@
 <?php
 
+
 $conn = oci_connect(
     'xxxxxxxx',  // replace with your username for Oracle
     'xxxxxxxx', // replace with your password for Oracle
