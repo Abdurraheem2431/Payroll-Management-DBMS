@@ -1,3 +1,6 @@
+------------------------------
+-- DROP TABLES
+------------------------------
 DROP TABLE Payment CASCADE CONSTRAINTS;
 DROP TABLE Deduction CASCADE CONSTRAINTS;
 DROP TABLE Payroll CASCADE CONSTRAINTS;
