@@ -1,4 +1,6 @@
-
+------------------------------
+-- QUERIES
+------------------------------
 SELECT e.Name AS "Employee Name", p.NetSalary AS "Net Salary ($)"
 FROM Employee e, Payroll p
 WHERE e.EmployeeID = p.EmployeeID
