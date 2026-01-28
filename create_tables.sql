@@ -1,5 +1,5 @@
 ------------------------------
--- CREATE TABLES
+-- CREATE THE TABLES
 ------------------------------
 
 CREATE TABLE Department (
